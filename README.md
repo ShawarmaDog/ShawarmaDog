@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ShawarmaDog
 - 👀 I’m interested in Shawarmas!
-- 🌱 I’m currently learning DOG
-- 💞️ I’m looking to collaborate on Birb
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
-Ask a local dog or shawarma shop
 
 <!---
 ShawarmaDog/ShawarmaDog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

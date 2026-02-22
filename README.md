@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShawarmaDog
-- 👀 I’m interested in Shawarmas!
+- 👀 I’m interested in learning!
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
